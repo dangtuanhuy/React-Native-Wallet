@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.himawari"
+        applicationId "com.hikari"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
